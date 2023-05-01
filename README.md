@@ -7,4 +7,4 @@ with likelion
 
 [Chapter05~07 Assignment](https://subdued-closet-d10.notion.site/Chapter05-06_Assignment-f9071c7ef2e54b2f83f5630346f69214)
 
-[Chapter07](https://www.notion.so/Chapter07-85b326ed34114158a56cadd9bcca15e3?pvs=4)
+[Chapter07](https://subdued-closet-d10.notion.site/Chapter07-85b326ed34114158a56cadd9bcca15e3)
